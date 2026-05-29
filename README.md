@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5d0f65b0-d564-4e46-bac6-250d92f97424" />
 # Neurotal-
 NeuroTal — The Prefrontal Exchange
 
